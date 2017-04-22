@@ -12,7 +12,7 @@ This script will perform the following steps on the data provided as part of thi
 
 
 
-#Variables Generated
+# Variables Generated
 * x_train, x_test, y_train, y_test, subject_train, subject_test contain the test and training data downloaded from the files
 
 * x_combined, y_combined, subject_combined are the combined test and training data sets
